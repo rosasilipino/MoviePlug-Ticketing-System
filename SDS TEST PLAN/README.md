@@ -1,5 +1,5 @@
 # Group 5's Movie Ticketing System (MoviePlug)
-<h3>SDS TEST PLAN Folder Contents.<br />
+<h3>SDS TEST PLAN Folder Contents.</h3><br />
 
 
 
